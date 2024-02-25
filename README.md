@@ -45,3 +45,15 @@ A side effect of how the fake pixel display is implemented.
 
 - <kbd>Ctrl + Mouse Wheel</kbd> - Zoom
 - <kbd>Mouse Select</kbd> - Highlight characters (half a pixel each)
+
+<br/>
+
+## 🔗 References
+
+Most impactful tutorials and tools used while creating the project.
+
+- [YouTube: C++ Tutorial 18 - Simple Snake Game (Part 1)](https://www.youtube.com/watch?v=E_-lMZDi7Uw&list=PLrjEQvEart7dPMSJiVVwTDZIHYq6eEbeL) - inspired the game loop logic.
+- [Pixel Values Extractor](https://www.boxentriq.com/code-breaking/pixel-values-extractor) - used to convert pixel art images into numeric values.
+- [PineTools Find and Replace](https://pinetools.com/find-and-replace) - assisted conversion of numeric values into C++ arrays.
+
+<br/>
